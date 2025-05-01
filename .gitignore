@@ -1,0 +1,12 @@
+**.pyc
+**.png
+**/tensorboard/**
+**/logs/**
+**/checkpoints/**
+**.txt
+**.out
+**.pkl
+parallel_job*
+parallel_*
+.vscode/
+NeuralProcesses.egg-info/
